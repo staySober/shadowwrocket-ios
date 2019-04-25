@@ -1,6 +1,6 @@
 # shadowwrocket-ios
-the key open new world door
-ios system use it
+the key open new world door  
+ios system use it  
 ## setup 1
 download this ipa
 ## setup 2
